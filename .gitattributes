@@ -1,3 +1,1 @@
-Paper/Clark2003.pdf filter=lfs diff=lfs merge=lfs -text
-Paper/Layeghy2016.pdf filter=lfs diff=lfs merge=lfs -text
-Paper/Zorzi2015.pdf filter=lfs diff=lfs merge=lfs -text
+Paper/*.pdf filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,28 @@
+
+** TODO 2015 - Cognition-Based Networks: a New Perspective on Network Optimization Using Learning and Distributed Intelligence
+ :PROPERTIES:
+  :Custom_ID: Zorzi2015
+  :AUTHOR: Zorzi Michele
+  :JOURNAL: IEEE Access
+  :YEAR: 2015
+  :VOLUME: 3
+  :PAGES: 1512-1530
+  :DOI: 10.1109/access.2015.2471178
+  :URL: https://doi.org/10.1109/access.2015.2471178
+ :END:
+
+cite:Zorzi2015
+
+** TODO 2016 - SCOR: Software-Defined Constrained Optimal Routing Platform for SDN
+ :PROPERTIES:
+  :Custom_ID: Layeghy2016
+  :AUTHOR: Layeghy, Pakzad \& Portmann
+  :JOURNAL: CoRR
+  :YEAR: 2016
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1607.03243v1
+ :END:
+
+cite:Layeghy2016

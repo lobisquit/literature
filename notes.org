@@ -1,0 +1,47 @@
+
+** 2017 - Including artificial intelligence in a routing protocol using Software Defined Networks
+ :PROPERTIES:
+  :Custom_ID: Sendra2017
+  :AUTHOR: Sandra Sendra, Albert Rego, Jaime Lloret, Jose Miguel Jimenez \& Oscar Romero
+  :JOURNAL:
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES: nil
+  :DOI: 10.1109/iccw.2017.7962735
+  :URL: https://doi.org/10.1109/iccw.2017.7962735
+ :END:
+
+- they don't use OpenFlow, only a custom version of a routing decision system (Quagga)
+- they used mininet instead of ns3, so less capable system (ex. mobile, ...)
+
+ cite:Sendra2017
+
+** 2016 - Machine Learning in Software Defined Networks: Data collection and traffic classification
+ :PROPERTIES:
+  :Custom_ID: Amaral2016
+  :AUTHOR: Amaral, Dinis, Pinto, Bernardo, Tavares \& Mamede
+  :JOURNAL: 2016 IEEE 24th International Conference on Network Protocols (ICNP)
+  :YEAR: 2016
+  :VOLUME:
+  :PAGES:
+  :DOI: 10.1109/icnp.2016.7785327
+  :URL: http://dx.doi.org/10.1109/icnp.2016.7785327
+ :END:
+
+ Nice, but they only do traffic classification *without* performing optimization.
+cite:Amaral2016
+
+** 2017 - How Better Is Distributed {SDN}? an Analytical Approach
+ :PROPERTIES:
+  :Custom_ID: Zhang2017
+  :AUTHOR: Zhang, Ma, Leung, Le, Kompella \& Tassiulas
+  :JOURNAL: CoRR
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1712.04161v1
+ :END:
+
+ Interesting theoric view, to use as upper bound for my system.
+cite:Zhang2017

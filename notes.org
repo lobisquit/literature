@@ -45,3 +45,20 @@ cite:Amaral2016
 
  Interesting theoric view, to use as upper bound for my system.
 cite:Zhang2017
+
+** 2015 - A survey of network traffic generation
+ :PROPERTIES:
+  :Custom_ID: Zhang2015
+  :AUTHOR: Junhui Zhang, Wen Ouyang, Xu Zhang, Dongbin Wang \& Jiqiang Tang
+  :JOURNAL:
+  :YEAR: 2015
+  :VOLUME:
+  :PAGES:
+  :DOI: 10.1049/cp.2015.0862
+  :URL: https://doi.org/10.1049/cp.2015.0862
+ :END:
+
+ Read to know which tecnique are used in real life.
+ Check if it is updated.
+
+cite:Zhang2015

@@ -1,64 +1,95 @@
 
 ** 2017 - Including artificial intelligence in a routing protocol using Software Defined Networks
- :PROPERTIES:
-  :Custom_ID: Sendra2017
-  :AUTHOR: Sandra Sendra, Albert Rego, Jaime Lloret, Jose Miguel Jimenez \& Oscar Romero
-  :JOURNAL:
-  :YEAR: 2017
-  :VOLUME:
-  :PAGES: nil
-  :DOI: 10.1109/iccw.2017.7962735
-  :URL: https://doi.org/10.1109/iccw.2017.7962735
- :END:
+   :PROPERTIES:
+   :Custom_ID: Sendra2017
+   :AUTHOR:   Sandra Sendra, Albert Rego, Jaime Lloret, Jose Miguel Jimenez \& Oscar Romero
+   :JOURNAL:
+   :YEAR:     2017
+   :VOLUME:
+   :PAGES:    nil
+   :DOI:      10.1109/iccw.2017.7962735
+   :URL:      https://doi.org/10.1109/iccw.2017.7962735
+   :END:
 
-- they don't use OpenFlow, only a custom version of a routing decision system (Quagga)
-- they used mininet instead of ns3, so less capable system (ex. mobile, ...)
+   - they don't use OpenFlow, only a custom version of a routing decision system (Quagga)
+   - they used mininet instead of ns3, so less capable system (ex. mobile, ...)
 
- cite:Sendra2017
+     cite:Sendra2017
 
 ** 2016 - Machine Learning in Software Defined Networks: Data collection and traffic classification
- :PROPERTIES:
-  :Custom_ID: Amaral2016
-  :AUTHOR: Amaral, Dinis, Pinto, Bernardo, Tavares \& Mamede
-  :JOURNAL: 2016 IEEE 24th International Conference on Network Protocols (ICNP)
-  :YEAR: 2016
-  :VOLUME:
-  :PAGES:
-  :DOI: 10.1109/icnp.2016.7785327
-  :URL: http://dx.doi.org/10.1109/icnp.2016.7785327
- :END:
+   :PROPERTIES:
+   :Custom_ID: Amaral2016
+   :AUTHOR:   Amaral, Dinis, Pinto, Bernardo, Tavares \& Mamede
+   :JOURNAL:  2016 IEEE 24th International Conference on Network Protocols (ICNP)
+   :YEAR:     2016
+   :VOLUME:
+   :PAGES:
+   :DOI:      10.1109/icnp.2016.7785327
+   :URL:      http://dx.doi.org/10.1109/icnp.2016.7785327
+   :END:
 
- Nice, but they only do traffic classification *without* performing optimization.
-cite:Amaral2016
+   Nice, but they only do traffic classification *without* performing optimization.
+   cite:Amaral2016
 
 ** 2017 - How Better Is Distributed {SDN}? an Analytical Approach
- :PROPERTIES:
-  :Custom_ID: Zhang2017
-  :AUTHOR: Zhang, Ma, Leung, Le, Kompella \& Tassiulas
-  :JOURNAL: CoRR
-  :YEAR: 2017
-  :VOLUME:
-  :PAGES:
-  :DOI:
-  :URL: http://arxiv.org/abs/1712.04161v1
- :END:
+   :PROPERTIES:
+   :Custom_ID: Zhang2017
+   :AUTHOR:   Zhang, Ma, Leung, Le, Kompella \& Tassiulas
+   :JOURNAL:  CoRR
+   :YEAR:     2017
+   :VOLUME:
+   :PAGES:
+   :DOI:
+   :URL:      http://arxiv.org/abs/1712.04161v1
+   :END:
 
- Interesting theoric view, to use as upper bound for my system.
-cite:Zhang2017
+   Interesting theoric view, to use as upper bound for my system.
+   cite:Zhang2017
 
-** 2015 - A survey of network traffic generation
+
+** 2014 - How to Generate Realistic Network Traffic?
+   :PROPERTIES:
+   :Custom_ID: Varet2014
+   :AUTHOR:   Varet \& Larrieu
+   :JOURNAL:  2014 IEEE 38th Annual Computer Software and Applications Conference
+   :YEAR:     2014
+   :VOLUME:
+   :PAGES:
+   :DOI:      10.1109/compsac.2014.40
+   :URL:      http://dx.doi.org/10.1109/compsac.2014.40
+   :END:
+
+   Focusing on ON-OFF packet generation processes, they built a program to do so.
+   Check if there is something newer, maybe fitting some data. cite:Varet2014
+
+** 2014 - Parsimonious Network Traffic Modeling By Transformed Arma Models
+   :PROPERTIES:
+   :Custom_ID: Laner2014
+   :AUTHOR:   Markus Laner, Philipp Svoboda \& Markus Rupp
+   :JOURNAL:  IEEE Access
+   :YEAR:     2014
+   :VOLUME:   2
+   :PAGES:    40-55
+   :DOI:      10.1109/access.2013.2297736
+   :URL:      https://doi.org/10.1109/access.2013.2297736
+   :END:
+
+  - nice analytical framework for packet generation for any distribution and autocorrelation: data needed!
+  - it still suppose stationarity, linearity, ergodicity of the process
+  cite:Laner2014
+
+** 2004 - A nonstationary poisson view of internet traffic
  :PROPERTIES:
-  :Custom_ID: Zhang2015
-  :AUTHOR: Junhui Zhang, Wen Ouyang, Xu Zhang, Dongbin Wang \& Jiqiang Tang
+  :Custom_ID: Karagiannis2004
+  :AUTHOR: Karagiannis, Molle, Faloutsos \& Broido
   :JOURNAL:
-  :YEAR: 2015
+  :YEAR: 2004
   :VOLUME:
   :PAGES:
-  :DOI: 10.1049/cp.2015.0862
-  :URL: https://doi.org/10.1049/cp.2015.0862
+  :DOI: 10.1109/infcom.2004.1354569
+  :URL: https://doi.org/10.1109/infcom.2004.1354569
  :END:
 
- Read to know which tecnique are used in real life.
- Check if it is updated.
-
-cite:Zhang2015
+Very interesting, good analysis of the traffic (also WIDE one).
+Probably I will have to replicate their results with the new data.
+cite:Karagiannis2004

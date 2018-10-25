@@ -93,3 +93,21 @@
 Very interesting, good analysis of the traffic (also WIDE one).
 Probably I will have to replicate their results with the new data.
 cite:Karagiannis2004
+
+** 2016 - Traffic Engineering in Software-Defined Networking: Measurement and Management
+ :PROPERTIES:
+  :Custom_ID: Shu2016
+  :AUTHOR: Zhaogang Shu, Jiafu Wan, Jiaxiang Lin, Shiyong Wang, Di Li, Seungmin Rho \& Changcai Yang
+  :JOURNAL: IEEE Access
+  :YEAR: 2016
+  :VOLUME: 4
+  :PAGES: 3246-3256
+  :DOI: 10.1109/access.2016.2582748
+  :URL: https://doi.org/10.1109/access.2016.2582748
+ :END:
+
+ cite:Shu2016
+
+ In thesis reference layer-2 MAN suitable traffic engineering tecniques are the following:
+ - load balancing between users and applications
+ - QoS guarantees
